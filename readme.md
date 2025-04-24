@@ -7,8 +7,8 @@ Welcome to your journey through Node.js — a complete guide to becoming confide
 
 ## Contents
 
-- [Introduction](#introduction)
-- [What is Node.js?](#what-is-nodejs)
+- [Introduction](0-intro.md)
+- [What is Node.js?](1-what-is-nodejs.md)
 
 
 ---
