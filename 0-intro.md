@@ -1,6 +1,6 @@
 ![Course](https://img.shields.io/badge/Course-Master%20Node.js-blue)
 ![Progress](https://img.shields.io/badge/Progress-0%25-yellowgreen)
-![Maintained](https://img.shields.io/badge/Maintained-yes-green)
+![Maintained](https://img.shields.io/badge/Maintained-no-red)
 ![Status](https://img.shields.io/badge/Status-WIP-orange)
 
 
